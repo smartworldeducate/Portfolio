@@ -30,7 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Salman Ali</span>
           <span>
-            Frontend Developer with high level of experience in web designing
+            Frontend Developer with high level of experience in web and mobile application designing
             and development, producting the Quality work
           </span>
         </div>
