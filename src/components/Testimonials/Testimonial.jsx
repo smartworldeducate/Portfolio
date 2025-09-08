@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development. I specialize in building high-quality, scalable, and user-friendly applications tailored to client needs. With hands-on experience managing end-to-end projects, I ensure timely delivery, seamless communication, and efficient execution from idea to deployment.",
     },
     {
       img: profilePic2,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
     },
     {
       img: profilePic3,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
     },
     {
       img: profilePic4,
       review:
-        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
+        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
     },
   ];
 
