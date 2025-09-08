@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
+        "Working with Salman was a great experience — he delivered our mobile app on time and with excellent quality.",
     },
     {
       img: profilePic2,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
+        "Very professional and reliable. He understood our requirements clearly and turned them into a great website.",
     },
     {
       img: profilePic3,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
+        "Excellent communication and project management. I highly recommend him for Android, iOS, and web development projects.",
     },
     {
       img: profilePic4,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
+        "He is very politlye and hardworking. I am very satisfied with the final product he delivered.",
     },
   ];
 
