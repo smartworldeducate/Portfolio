@@ -30,8 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Salman Ali</span>
           <span>
-            Frontend Developer with high level of experience in web and mobile application designing
-            and development, producting the Quality work
+            I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development. I specialize in building high-quality, scalable, and user-friendly applications tailored to client needs. With hands-on experience managing end-to-end projects, I ensure timely delivery, seamless communication, and efficient execution from idea to deployment.
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
