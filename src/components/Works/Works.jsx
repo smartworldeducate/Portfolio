@@ -24,13 +24,23 @@ const Works = () => {
             Works for All these
           </span>
           <span>Brands & Clients</span>
-          <spane>Our partner with clients to turn their ideas into powerful digital solutions. Whether you need a mobile app (Android & iOS), a responsive website, or end-to-end project management, I provide:
-          🤝 Collaborative approach – I listen carefully to understand your business goals and tailor solutions to match.
-          🚀 Efficient delivery – Projects are managed with clear timelines and milestones to ensure on-time completion.
-          🎨 Quality & usability – I focus on building applications that are not only functional but also intuitive and engaging.
-          🔐 Reliability – From concept to launch, I ensure transparency, accountability, and support at every stage.
-          👉 My goal is to build long-term relationships with clients by delivering results that create real value for their business.
-          </spane>
+          {/* <spane>
+            Lorem ispum is simpley dummy text of printing of printing Lorem
+            <br />
+            ispum is simpley dummy text of printingLorem ispum is simpley dummy
+            text
+            <br />
+            y dummy text of printingLorem
+            <br />
+            ispum is simpley dummy text of printing
+          </spane> */}
+          <span>
+            I work with clients to deliver mobile apps and websites that match their goals.  
+            <br />
+            From idea to launch, I focus on quality, speed, and clear communication.  
+            <br />
+            Let's build something great together.  
+          </span>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
           </Link>
