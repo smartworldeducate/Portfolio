@@ -35,11 +35,9 @@ const Works = () => {
             ispum is simpley dummy text of printing
           </spane> */}
           <span>
-            I work with clients to deliver mobile apps and websites that match their goals.  
+            I work with clients to deliver mobile apps and websites that match their goals.From idea to launch,  
             <br />
-            From idea to launch, I focus on quality, speed, and clear communication.  
-            <br />
-            Let's build something great together.  
+            focus on quality, speed, and clear communication.Let's build something great together.
           </span>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
