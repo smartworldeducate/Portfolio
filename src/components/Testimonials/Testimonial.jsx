@@ -15,22 +15,22 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development. I specialize in building high-quality, scalable, and user-friendly applications tailored to client needs. With hands-on experience managing end-to-end projects, I ensure timely delivery, seamless communication, and efficient execution from idea to deployment.",
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
     },
     {
       img: profilePic2,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development. I specialize in building high-quality, scalable, and user-friendly applications tailored to client needs. With hands-on experience managing end-to-end projects, I ensure timely delivery, seamless communication, and efficient execution from idea to deployment.",
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
     },
     {
       img: profilePic3,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development. I specialize in building high-quality, scalable, and user-friendly applications tailored to client needs. With hands-on experience managing end-to-end projects, I ensure timely delivery, seamless communication, and efficient execution from idea to deployment.",
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
     },
     {
       img: profilePic4,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development. I specialize in building high-quality, scalable, and user-friendly applications tailored to client needs. With hands-on experience managing end-to-end projects, I ensure timely delivery, seamless communication, and efficient execution from idea to deployment.",
+        "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
     },
   ];
 
