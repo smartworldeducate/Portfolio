@@ -15,7 +15,8 @@ const Testimonial = () => {
     {
       img: profilePic1,
       review:
-        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development",
+        "I am a passionate Software Developer and Project Manager with expertise in Android, iOS, and Website Development.",
+    },
     {
       img: profilePic2,
       review:
